@@ -1,0 +1,28 @@
+{
+  "name": "koala-web",
+  "version": "1.0.0",
+  "description": "toxickoala's personal website",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx eleventy --serve",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toxickoala/koala-web.git"
+  },
+  "keywords": [],
+  "author": {
+		"name": "toxickoala",
+		"email": "toxicuskoala@gmail.com",
+		"url": "https://www.google.com"
+	},
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/toxickoala/koala-web/issues"
+  },
+  "homepage": "https://github.com/toxickoala/koala-web#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.1"
+  }
+}
