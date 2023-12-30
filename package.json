@@ -12,11 +12,11 @@
     "url": "git+https://github.com/toxickoala/koala-web.git"
   },
   "keywords": [],
-  "author": {
-		"name": "toxickoala",
-		"email": "toxicuskoala@gmail.com",
-		"url": "https://www.google.com"
-	},
+  "author":{
+    "name": "toxickoala",
+    "email": "toxicuskoala@gmail.com",
+    "url": "https://www.google.com"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/toxickoala/koala-web/issues"
